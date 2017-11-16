@@ -1,1 +1,1 @@
-# Real-estate-data-analytics
+Class projects done independently

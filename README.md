@@ -1,1 +1,2 @@
-Class projects done independently
+Shiny App contains data visualization and descriptive statistics
+
